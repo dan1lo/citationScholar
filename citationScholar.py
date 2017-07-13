@@ -14,7 +14,7 @@ contAux=0
 
 
 id = raw_input('>> Put the paper ID') 
-# exemple : https://scholar.google.com.br/scholar?oi=bibs&hl=pt-BR&cites=2627283193938513175&as_sdt=5
+# example : https://scholar.google.com.br/scholar?oi=bibs&hl=pt-BR&cites=2627283193938513175&as_sdt=5
 #after cites= 2627283193938513175 
 #you can found put the paper's name and click at cited by
 
