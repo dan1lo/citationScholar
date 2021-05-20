@@ -1,5 +1,5 @@
 # citationScholar
-This project will help researchers to find all mention their papers.
+This project will help researchers to find all mentions about their papers.
 
 If you are searching for a script to find all papers that cited your paper, this is your solution.
 
