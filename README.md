@@ -1,7 +1,7 @@
 # citationScholar
-This project will help research to find all papers cited by him.
+This project will help researcher to find all metion papers .
 
-If you are search for a script to find all papers that cited you paper, this is your solution.
+If you are search for a script to find all papers that cited your paper, this is your solution.
 
 
-this script will return the name of paper and other information of page, like author names, year, proce
+this script will return the name of paper and other information of page, like author names, year, procedings
